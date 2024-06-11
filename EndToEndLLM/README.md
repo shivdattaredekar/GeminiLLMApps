@@ -2,6 +2,9 @@
 
 This project implements a chatbot using Google's Gemini Pro model and Streamlit for the web interface. The chatbot can respond to user queries in a conversational manner, leveraging the capabilities of the Gemini Pro model.
 
+
+
+
 ## Features
 
 - Interactive chatbot interface
