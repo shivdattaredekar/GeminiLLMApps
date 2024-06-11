@@ -2,8 +2,7 @@
 
 This project implements a chatbot using Google's Gemini Pro model and Streamlit for the web interface. The chatbot can respond to user queries in a conversational manner, leveraging the capabilities of the Gemini Pro model.
 
-
-
+https://github.com/shivdattaredekar/GeminiLLMApps/assets/46707992/c431a80a-c7aa-456f-b9ba-447082752f9a
 
 ## Features
 
@@ -116,4 +115,11 @@ if submit and input:
 st.subheader('The chat history is:')
 for role, text in st.session_state['chat_history']:
     st.write(f'{role}: {text}')
+```
 
+### Acknowledgments
+- Google for providing the Generative AI services
+- Streamlit for the web application framework
+
+### Contact
+For any questions or feedback, please reach out to [shivdattaredekar@gmail.com].
