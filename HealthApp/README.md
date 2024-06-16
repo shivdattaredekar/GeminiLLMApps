@@ -2,7 +2,7 @@
 
 Google Gemini Health App is a Streamlit application that allows users to interact with images of meals by uploading photos and receiving detailed calorie information for the meals. The application leverages Google's Gemini Pro Vision model for image processing and calorie estimation.
 
-https://github.com/shivdattaredekar/GeminiLLMApps/assets/46707992/cfb59a1d-8e9a-4486-a16c-e7bed0a6e0b2
+https://github.com/shivdattaredekar/GeminiLLMApps/assets/46707992/acb0cab3-79f4-4b98-99c8-be2da4b6e20d
 
 ## Features
 
